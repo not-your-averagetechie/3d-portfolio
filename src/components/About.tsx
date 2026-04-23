@@ -6,11 +6,9 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am currently co-founder of CallHQ.ai, building real-time voice AI for
-          businesses. I am a technologist at heart with strong business judgment—
-          I enjoy going from product strategy to hands-on engineering. My background
-          spans leadership at Adobe, founding Broki and CallHQ, and shipping
-          full-stack products end to end.
+          I'm Tanay Soni, a 21-year-old PGDM Finance student at Dr. D. Y. Patil B-School with a B.Com from IIC Indore (75%). During my Accounts Executive internship, I managed daily journal entries, bank reconciliations, and GST filings with 100% accuracy.
+
+<br />I am proficient in MS Excel, SQL, and Power BI, supported by certifications in NISM Mutual Funds and Data Analytics. A versatile achiever, I serve as a Rotaract Club Editor and am a district-level athlete in volleyball and kabaddi.
         </p>
       </div>
     </div>

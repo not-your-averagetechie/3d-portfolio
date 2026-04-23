@@ -59,46 +59,28 @@ const SocialIcons = () => {
   return (
     <div className="icons-section">
       <div className="social-icons" data-cursor="icons" id="social">
+        {/* LinkedIn is your primary professional platform [cite: 1, 12] */}
         <span>
           <a
-            href="https://github.com/akashrmalhotra"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <FaGithub />
-          </a>
-        </span>
-        <span>
-          <a
-            href="https://www.linkedin.com/in/akashrmalhotra/"
+            href="https://www.linkedin.com/in/tanay-soni-59b990375"
             target="_blank"
             rel="noreferrer"
           >
             <FaLinkedinIn />
           </a>
         </span>
-        <span>
-          <a
-            href="https://www.youtube.com/@Leftbraincoder"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <FaYoutube />
+        {/* GitHub, YouTube, and Instagram are commented out as they 
+          aren't specified in your current finance-focused resume [cite: 1] 
+        */}
+        {/* <span>
+          <a href="#" target="_blank" rel="noreferrer">
+            <FaGithub />
           </a>
-        </span>
-        <span>
-          <a
-            href="https://www.instagram.com/leftbraincoder/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <FaInstagram />
-          </a>
-        </span>
+        </span> */}
       </div>
       <a
         className="resume-button"
-        href="/Akash_Malhotra.pdf"
+        href="/TANAY_SONI_RESUME.pdf"
         target="_blank"
         rel="noreferrer"
       >

@@ -87,20 +87,20 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>AI & AUTOMATION</h3>
-              <h4>Workflow Intelligence for Organizations</h4>
+              <h3>FINANCIAL ANALYSIS</h3>
+              <h4>Data-Driven Insights & Reporting</h4>
               <p>
-                AI specialist helping organizations automate workflows—internal ops
-                and customer-facing—so teams ship faster with less manual work.
+                Leveraging technical tools to transform complex financial data into 
+                actionable insights, specializing in mutual funds and business analytics.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">LLMs &amp; agents</div>
-                <div className="what-tags">Workflow design</div>
-                <div className="what-tags">RAG &amp; retrieval</div>
-                <div className="what-tags">Evals &amp; guardrails</div>
-                <div className="what-tags">Integrations</div>
-                <div className="what-tags">Product strategy</div>
+                <div className="what-tags">Power BI</div>
+                <div className="what-tags">MS Excel (Advanced)</div>
+                <div className="what-tags">SQL</div>
+                <div className="what-tags">NISM Mutual Funds</div>
+                <div className="what-tags">Data Visualization</div>
+                <div className="what-tags">Analytical Thinking</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -124,21 +124,20 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BUILD &amp; SCALE</h3>
-              <h4>Shipping AI in Production</h4>
+              <h3>ACCOUNTING & TAX</h3>
+              <h4>Operational Excellence & Compliance</h4>
               <p>
-                I build the systems behind it: APIs, data, voice/real-time, and
-                full-stack products—production-ready, not slide decks.
+                Managing core accounting operations including journal entries, 
+                reconciliations, and GST filings with a focus on audit-ready accuracy.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Python</div>
-                <div className="what-tags">REST &amp; real-time APIs</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Cloud &amp; infra</div>
+                <div className="what-tags">Tally ERP</div>
+                <div className="what-tags">GST Filing</div>
+                <div className="what-tags">Bank Reconciliation</div>
+                <div className="what-tags">Ledger Management</div>
+                <div className="what-tags">Audit Documentation</div>
+                <div className="what-tags">Financial Reporting</div>
               </div>
               <div className="what-arrow"></div>
             </div>

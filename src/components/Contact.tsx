@@ -11,36 +11,34 @@ const Contact = () => {
             <h4>Connect</h4>
             <p>
               <a
-                href="https://www.linkedin.com/in/akashrmalhotra/"
+                href="https://www.linkedin.com/in/tanay-soni-59b990375"
                 target="_blank"
                 rel="noreferrer"
                 data-cursor="disable"
               >
-                LinkedIn — akashrmalhotra
+                LinkedIn — Tanay Soni
+              </a>
+            </p>
+            <p>
+              <a href="mailto:tanay.227pgdm25@dypdpu.edu.in">
+                tanay.227pgdm25@dypdpu.edu.in
               </a>
             </p>
             <h4>Education</h4>
             <p>
-              PGPWE (MBA), Indian Institute of Management, Lucknow — 2021–2023
+              PGDM Finance, Dr. D. Y. Patil B-School, Pune — 2025–2027
             </p>
             <p>
-              B.Tech Computer Science, Manav Rachna Educational Institutions —
-              2009–2013
+              B. Com Finance, IIC Indore — 2022–2025
             </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
+            <p>
+              Wakad, Pune
+            </p>
             <a
-              href="https://github.com/akashrmalhotra"
-              target="_blank"
-              rel="noreferrer"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              GitHub <MdArrowOutward />
-            </a>
-            <a
-              href="https://www.linkedin.com/in/akashrmalhotra/"
+              href="https://www.linkedin.com/in/tanay-soni-59b990375"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -48,28 +46,19 @@ const Contact = () => {
             >
               LinkedIn <MdArrowOutward />
             </a>
-            <a
-              href="https://www.youtube.com/@Leftbraincoder"
+            {/* <a
+              href="https://github.com/tanay-soni"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
               className="contact-social"
             >
-              YouTube <MdArrowOutward />
-            </a>
-            <a
-              href="https://www.instagram.com/leftbraincoder/"
-              target="_blank"
-              rel="noreferrer"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Instagram <MdArrowOutward />
-            </a>
+              GitHub <MdArrowOutward />
+            </a> */}
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Akash Malhotra</span>
+              Designed and Developed <br /> by <span>Tanay Soni</span>
             </h2>
             <h5>
               <MdCopyright /> 2026
